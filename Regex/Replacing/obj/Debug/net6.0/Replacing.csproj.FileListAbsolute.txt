@@ -1,0 +1,15 @@
+C:\Users\nblay\Downloads\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.exe
+C:\Users\nblay\Downloads\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.deps.json
+C:\Users\nblay\Downloads\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.runtimeconfig.json
+C:\Users\nblay\Downloads\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.dll
+C:\Users\nblay\Downloads\Start\Regex\Replacing\bin\Debug\net6.0\ref\Replacing.dll
+C:\Users\nblay\Downloads\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.pdb
+C:\Users\nblay\Downloads\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.AssemblyReference.cache
+C:\Users\nblay\Downloads\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nblay\Downloads\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfoInputs.cache
+C:\Users\nblay\Downloads\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfo.cs
+C:\Users\nblay\Downloads\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.CoreCompileInputs.cache
+C:\Users\nblay\Downloads\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.dll
+C:\Users\nblay\Downloads\Start\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll
+C:\Users\nblay\Downloads\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
+C:\Users\nblay\Downloads\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
